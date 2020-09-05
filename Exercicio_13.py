@@ -1,6 +1,6 @@
  # Faça um Algoritmo que leia o Salrio de um funcionario e mostre seu novo Salrio ,com 15% de aumento
 
-salario = float(input('Qual o Salrio do Funcionario? R$: '))
+salario = float(input('Qual o Salario do Funcionario? R$: '))
 aumento = salario+( salario * 15/ 100)
 print('Um Funcionario que Ganha R$:{:.2F},com 15% de Aumento, passa a Receber\nR$:{:.2F}'.format(salario,aumento))
 

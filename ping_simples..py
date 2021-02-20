@@ -8,3 +8,4 @@ os.system('ping -n 6 {}'.format(ip_ou_host))# Chamando o Modulo System da Biblio
 print('-'*30) # Imprimindo #*60 vezes.
 
 
+# Ola e um Simples Disparador de Pings.
